@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Twitter/X]([https://skillicons.dev/icons?i=twitter](https://i.pinimg.com/564x/91/8b/20/918b20dc0aa716e09fd0a58f9dd8e720.jpg))](https://twitter.com/harty1193) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_harty1193/) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/harty1193) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harty1193/) &nbsp;
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/859796063661457460) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:l.hruda@live.com?subject=Hello%20Harry,%20From%20Github)
+
 
 </div>
 
